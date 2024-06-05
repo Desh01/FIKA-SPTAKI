@@ -1,0 +1,13 @@
+{
+  "order": [
+    "fika-server",
+    "DanW-SPTQuestingBots",
+    "Fontaine-FOV-Fix",
+    "MoreCheckmarksBackend",
+    "Skwizzy-NoDiscardLimit",
+    "SPT-Realism",
+    "SWAG",
+    "ServerValueModifier",
+    "zSolarint-SAIN-ServerMod"
+  ]
+}
